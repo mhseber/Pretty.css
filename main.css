@@ -1,0 +1,15 @@
+h1 {
+    color: blueviolet;
+}
+p {
+    color: white;
+    background-color: black;
+    border: 5px solid rgb(58, 19, 19);
+    border-radius: 40px;
+    font-size: 2em;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    border-color: rgb(67, 67, 192);
+    
+}
